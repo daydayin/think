@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think",
+    "name": "daydayin/think",
     "description": "the new thinkphp framework",
     "type": "project",
     "keywords": [
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "topthink/framework": "5.1.*"
+        "daydayin/framework": "5.1.*"
     },
     "autoload": {
         "psr-4": {
